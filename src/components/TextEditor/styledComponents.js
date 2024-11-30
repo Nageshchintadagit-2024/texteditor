@@ -50,7 +50,7 @@ font-family:"Roboto";
 export const WebsiteImage = styled.img`
 
 width:90%;
-height:60%;
+height:58%;
 
 `
 
@@ -60,8 +60,8 @@ padding-left:0px;
 display:flex;
 flex-direction:row;
 align-items:center;
-padding-left:24px;
-padding-right:24px;
+padding-left:22px;
+padding-right:22px;
 padding-top:10px;
 padding-botton:10px;
 
